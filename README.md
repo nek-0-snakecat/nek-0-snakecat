@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **just beat a rebel 3 times in a year, in little big snake.**
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nek-0-snakecat&label=Profile%20views&color=0e75b6&style=flat" alt="nek-0-snakecat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nek-0-snakecat&label=Profile%20views&color=0e75b6&style=flat" alt="nek-0-snakecat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nek-0-snakecat" alt="nek-0-snakecat" /></a> </p>
 
